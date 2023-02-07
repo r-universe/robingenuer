@@ -1,5 +1,6 @@
 [
   {
-    "package": "VSURF"
+    "package": "VSURF",
+    "oncran": true
   }
 ]
